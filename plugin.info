@@ -1,0 +1,18 @@
+name = LibreCommands
+version = 1.1
+description = Launch file folders
+file = libre
+author = Tim Hitchins
+actions = 
+New Document, New Libre Writer document
+Libre Writer, New Libre Writer document
+New Presentation, New Libre Impress document
+Libre Impress, New Libre Impress document
+New Spreadsheet, New Libre Spreadsheet document
+Libre Calc, New Libre Spreadsheet document
+New formula, New Libre Math document
+Libre Math, New Libre Math document
+New Drawing, New Libre Draw document
+Libre Draw, New Libre Draw document
+New Database, New Libre Base document
+Libre Base, New Libre Base document

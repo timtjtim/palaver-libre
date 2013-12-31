@@ -1,0 +1,36 @@
+<n,N>ew <d,D>ocument
+  libre 'libreoffice --writer'
+
+<<l,L>ibre,<l,L>ibra> <w,W>riter
+  libre 'libreoffice --writer'
+
+<n,N>ew <p,P>resentation
+  libre 'libreoffice --impress'
+
+<<l,L>ibre,<l,L>ibra> <<i,I>mpress>,<<i,I>mpressed>
+  libre 'libreoffice --impress'
+
+<n,N>ew <s,S>preadsheet
+  libre 'libreoffice --calc'
+
+<<l,L>ibre,<l,L>ibra> <c,C>alc
+  libre 'libreoffice --calc'
+
+<n,N>ew <f,F>ormula
+  libre 'libreoffice --math'
+
+<<l,L>ibre,<l,L>ibra> <m,M>ath
+  libre 'libreoffice --math'
+
+<n,N>ew <d,D>rawing
+  libre 'libreoffice --draw'
+
+<<l,L>ibre,<l,L>ibra> <d,D>raw
+  libre 'libreoffice --draw'
+
+<n,N>ew <d,D>atabase
+  libre 'libreoffice --base'
+
+<<l,L>ibre,<l,L>ibra> <b,B>ase
+  libre 'libreoffice --base'
+
