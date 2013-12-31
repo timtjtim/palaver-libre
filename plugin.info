@@ -1,6 +1,6 @@
-name = LibreCommands
+name = OpenLibreOffice
 version = 1.1
-description = Launch file folders
+description = Launch the programs in libre office
 file = libre
 author = Tim Hitchins
 actions = 
